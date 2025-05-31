@@ -4,25 +4,23 @@
 
 ## About Me
 
-Hello! I’m **Ehsan Ehsanpour**, a **Broadcasting Engineer** with over 8 years of experience in the television and media industry. Based in Tehran, Iran, I specialize in broadcast engineering, live streaming, data analysis, and programming. I’m passionate about leveraging technology to solve complex challenges in broadcasting, streaming, and multimedia production.
-
-- **Age**: 33  
-- **Location**: Tehran, Iran  
+Hello! I’m **Ehsan Ehsanpour**, a **Broadcasting Engineer** with over 10 years of experience in the television and media industry. Based in Tehran, Iran, I specialize in programming, broadcast engineering, live streaming, data analysis, and programming. I’m passionate about leveraging technology to solve complex challenges in broadcasting, streaming, and multimedia production.
+ 
 - **Contact**:  
   - Email: [Ehsanpour@gmail.com](mailto:Ehsanpour@gmail.com)  
   - Phone: +98 (935) 2597936  
-- **Portfolio**: [ehsanpour.com](https://www.ehsanpour.com)  
-- **LinkedIn**: [Ehsan Ehsanpour](https://www.linkedin.com/in/ehsan-ehsanpour/)
+- **Portfolio**: [My Website](https://ehsaanpour.github.io/Me/index.html)  
+- **LinkedIn**: [Ehsan Ehsanpour](https://www.linkedin.com/in/ehsaanpour/)
 
 ## Professional Summary
 
-As a seasoned Broadcasting Engineer, I have extensive experience working in control rooms, central machine rooms, and studios for major channels like SOROUSH Multimedia Corporation (IRIB), Hispan TV, and IFilm TV. My expertise includes operating video switchers, audio mixers, lighting systems, cameras, and broadcast cards (e.g., embedders, synchronizers, up/down converters). I’m proficient in live streaming systems like RTMP on Wowza and Nginx, and I excel at resolving technical issues in live and recorded environments.
+As a seasoned Broadcasting Engineer, I have extensive experience working in control rooms, central machine rooms, and studios for major channels. My expertise includes operating video switchers, audio mixers, lighting systems, cameras, and broadcast cards (e.g., embedders, synchronizers, up/down converters). I’m proficient in live streaming systems like RTMP on Wowza and Nginx, and I excel at resolving technical issues in live and recorded environments.
 
-I also bring a strong programming background, particularly in Python, to develop applications for streaming and data transfer. My skills extend to data analysis, artificial intelligence, and machine learning, supported by certifications from IBM and Coursera. I’m adept at configuring live and VOD servers, working with communication tools like Jitsi Meet and Zoom, and authoring technical documentation in Persian.
+I also bring a strong programming background, particularly in Python, TypeScript, and ... to develop applications for streaming and data transfer. My skills extend to data analysis, artificial intelligence, and machine learning, supported by certifications from IBM and Coursera. I’m adept at configuring live and VOD servers, working with communication tools like Jitsi Meet and Zoom, and authoring technical documentation in Persian.
 
 ## Broadcasting Expertise
 
-With over 8 years in the television industry, I specialize in:
+With over 10 years in the television industry, I specialize in:
 - Operating video switchers, audio mixers, lighting systems, cameras, and broadcast cards.  
 - Configuring live and VOD servers using RTMP on Wowza and Nginx.  
 - Managing broadcast networks and SAN systems.  
@@ -33,14 +31,16 @@ With over 8 years in the television industry, I specialize in:
 ## Skills
 
 ### Core Competencies
+
+- **Programming** 💻: Python, application development for streaming and data transfer.
 - **Broadcast Engineering** 🖥️: Video switchers, audio mixers, lighting, CG, playouts, cameras, broadcast cards.  
 - **Live Streaming** 📡: RTMP, Wowza, Nginx, Vmix, Wirecast, OBS.  
-- **Programming** 💻: Python, application development for streaming and data transfer.  
 - **Data & AI** 📊: Data analysis, AI, machine learning (certified expertise).  
 - **IT & Networking** 🌐: Broadcast networks, SAN systems, two-way communication tools.  
 
 ### Tools & Technologies
-- **Equipment**: Grassvalley/Sony cameras, Kahuna/Tricaster mixers, STUDER OnAir3000, ADB/ARRI lighting.  
+- **Programming**: Python, JavaScript, Typescript, Html.
+- **Equipment**: Grassvalley/Sony cameras, Kahuna/Tricaster mixers, STUDER, ADB/ARRI lighting.  
 - **Software**: Vmix, Wirecast, OBS, waveform monitors, vectorscopes.  
 - **Platforms**: Jitsi Meet, BigBlueButton, Zoom, Skype, Wowza, Nginx.  
 
@@ -85,14 +85,5 @@ Below are some of my featured GitHub repositories that showcase my expertise in 
 
 - **IBM Data Science Professional Certificate** ([View Certificate](https://www.coursera.org/account/accomplishments/specialization/036276EDQVZ3))  
 - **Applied Data Science Specialization Certificate** ([View Certificate](https://www.coursera.org/account/accomplishments/specialization/9WDZNWTC2TUC))  
-
-More certifications are available on my [website](https://www.ehsanpour.com) or [LinkedIn](https://www.linkedin.com/in/ehsan-ehsanpour/).
-
-## Get in Touch
-
-I’m excited to collaborate on projects in broadcasting, streaming, or data science. Reach out via:  
-- Email: [Ehsanpour@gmail.com](mailto:Ehsanpour@gmail.com)  
-- LinkedIn: [Ehsan Ehsanpour](https://www.linkedin.com/in/ehsan-ehsanpour/)  
-- Website: [ehsanpour.com](https://www.ehsanpour.com)  
 
 Let’s create something extraordinary together! 🌟
