@@ -2,7 +2,7 @@
 ![Alt text](https://media.licdn.com/dms/image/v2/C4D1BAQG8GhiPJlo5Ow/company-background_10000/company-background_10000/0/1637940029294/eria_teknoloji_cover?e=2147483647&v=beta&t=g-G_rCEm8WkLGkFU0hUXKGEan-STpI-doUOgyf3904g "a title")
 ## About Me
 
-Hello! I’m **Ehsan Ehsanpour**, a **Broadcasting Engineer** with over 10 years of experience in the television and media industry. Based in Tehran, Iran, I specialize in programming, broadcast engineering, live streaming, data analysis, and programming. I’m passionate about leveraging technology to solve complex challenges in broadcasting, streaming, and multimedia production.
+Hello! I’m **Ehsan Ehsanpour**, a **Programmer**, **Broadcasting Engineer** with over 10 years of experience in the Freelance and television and media industry. I specialize in programming, broadcast engineering, live streaming, and data analysis. I’m passionate about leveraging technology to solve complex challenges in Programming, broadcasting, streaming, and multimedia production.
  
 - **Contact**:  
   - Email: [Ehsanpour@gmail.com](mailto:Ehsanpour@gmail.com)  
@@ -12,9 +12,9 @@ Hello! I’m **Ehsan Ehsanpour**, a **Broadcasting Engineer** with over 10 years
 
 ## Professional Summary
 
-As a seasoned Broadcasting Engineer, I have extensive experience working in control rooms, central machine rooms, and studios for major channels. My expertise includes operating video switchers, audio mixers, lighting systems, cameras, and broadcast cards (e.g., embedders, synchronizers, up/down converters). I’m proficient in live streaming systems like RTMP on Wowza and Nginx, and I excel at resolving technical issues in live and recorded environments.
+I bring a strong programming background, particularly in Python, TypeScript, and ... to develop applications for streaming and data transfer. My skills extend to data analysis, artificial intelligence, and machine learning, supported by certifications from IBM and Coursera. I’m adept at configuring live and VOD servers, working with communication tools like Jitsi Meet and Zoom, and authoring technical documentation in Persian.
 
-I also bring a strong programming background, particularly in Python, TypeScript, and ... to develop applications for streaming and data transfer. My skills extend to data analysis, artificial intelligence, and machine learning, supported by certifications from IBM and Coursera. I’m adept at configuring live and VOD servers, working with communication tools like Jitsi Meet and Zoom, and authoring technical documentation in Persian.
+Also, as a seasoned Broadcasting Engineer, I have extensive experience working in control rooms, central machine rooms, and studios for major channels. My expertise includes operating video switchers, audio mixers, lighting systems, cameras, and broadcast cards (e.g., embedders, synchronizers, up/down converters). I’m proficient in live streaming systems like RTMP on Wowza and Nginx, and I excel at resolving technical issues in live and recorded environments.
 
 ## Broadcasting Expertise
 
