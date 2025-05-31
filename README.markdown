@@ -1,7 +1,5 @@
 # Ehsan Ehsanpour
 ![Alt text](https://media.licdn.com/dms/image/v2/C4D1BAQG8GhiPJlo5Ow/company-background_10000/company-background_10000/0/1637940029294/eria_teknoloji_cover?e=2147483647&v=beta&t=g-G_rCEm8WkLGkFU0hUXKGEan-STpI-doUOgyf3904g "a title")
-![Banner]([https://via.placeholder.com/1200x200](https://media.licdn.com/dms/image/v2/C4D1BAQG8GhiPJlo5Ow/company-background_10000/company-background_10000/0/1637940029294/eria_teknoloji_cover?e=2147483647&v=beta&t=g-G_rCEm8WkLGkFU0hUXKGEan-STpI-doUOgyf3904g))
-
 ## About Me
 
 Hello! I’m **Ehsan Ehsanpour**, a **Broadcasting Engineer** with over 10 years of experience in the television and media industry. Based in Tehran, Iran, I specialize in programming, broadcast engineering, live streaming, data analysis, and programming. I’m passionate about leveraging technology to solve complex challenges in broadcasting, streaming, and multimedia production.
