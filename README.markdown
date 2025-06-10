@@ -63,7 +63,6 @@ I'm a passionate developer specializing in Python, TypeScript, and broadcasting 
 
 - [LinkedIn](https://www.linkedin.com/in/ehsaanpour/)
 - [Portfolio](https://ehsaanpour.github.io/Me/index.html)
-- Email: [Ehsanpour@gmail.com](mailto:Ehsanpour@gmail.com)
 
 ## 📫 How to Reach Me
 
