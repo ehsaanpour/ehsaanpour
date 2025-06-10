@@ -14,11 +14,23 @@ I'm a passionate developer specializing in Python, TypeScript, and broadcasting 
 - [instalivecli](https://github.com/ehsaanpour/instalivecli) - CLI tool for Instagram Live streaming with RTMP integration
 - [Ndi-Screen-Capture](https://github.com/ehsaanpour/Ndi-Screen-Capture) - Web-based NDI screen capture solution
 - [VDR_FTP](https://github.com/ehsaanpour/VDR_FTP) - GUI application for VDR file transfers
+- [NegahkadehStream](https://github.com/ehsaanpour/NegahkadehStream) - Advanced streaming solution for broadcasting
+- [studio](https://github.com/ehsaanpour/studio) - TypeScript-based studio management system
 
-### Web Applications
+### Web Applications & Tools
 - [Shift-list](https://github.com/ehsaanpour/Shift-list) - FastAPI + Bootstrap 5 shift scheduling system
 - [Shift-Scheduler-With-Login](https://github.com/ehsaanpour/Shift-Scheduler-With-Login) - Enhanced shift management with authentication
 - [raffle](https://github.com/ehsaanpour/raffle) - Persian UI raffle system
+- [Me](https://github.com/ehsaanpour/Me) - Personal portfolio website
+- [ehsaanpour.github.io](https://github.com/ehsaanpour/ehsaanpour.github.io) - GitHub Pages website
+
+### Data Science & AI Projects
+- [Data-Science-Professional-Certificate](https://github.com/ehsaanpour/Data-Science-Professional-Certificate) - IBM Data Science certification projects
+- [Applied-Data-Science-Specialization](https://github.com/ehsaanpour/Applied-Data-Science-Specialization) - Coursera specialization projects
+
+### Learning & Documentation
+- [Python-Programming](https://github.com/ehsaanpour/Python-Programming) - Python programming examples and tutorials
+- [TypeScript-Learning](https://github.com/ehsaanpour/TypeScript-Learning) - TypeScript learning materials and examples
 
 ## 🛠️ Tech Stack
 
