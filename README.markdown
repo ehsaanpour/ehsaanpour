@@ -11,7 +11,7 @@
 <!-- Primary Navigation & Contact Badges -->
 <p align="center">
   <a href="https://ehsan.cc.cc"><img src="https://img.shields.io/badge/🌐_Website-ehsan.cc.cc-00E5FF?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://linkedin.com/in/ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Ehsan_Ehsanpour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://www.linkedin.com/in/ehsaan-ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Ehsan_Ehsanpour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/ehsaanpour"><img src="https://img.shields.io/badge/Telegram-@ehsaanpour-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://ehsaanpour.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" /></a>
   <img src="https://komarev.com/ghpvc/?username=ehsaanpour&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
