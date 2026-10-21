@@ -30,6 +30,67 @@
 </div>
 
 ---
+flowchart TB
+    subgraph StudioFloor["🎥 1. Studio Floor & Signal Acquisition"]
+        direction LR
+        CAM["Studio Cameras & Switchers<br/>(SDI / HDMI / IP)"]
+        NDI_CAP["🖥️ Ndi-Screen-Capture<br/>(Web-Controlled NDI® Source)"]
+        OBS["🎬 OBS Studio / Hardware Encoders<br/>(Live Mixing & CG)"]
+    end
+
+    subgraph IngestAndControl["⚙️ 2. Ingest, VDR Storage & Studio Control Plane"]
+        direction LR
+        VDR["📂 VDR_FTP GUI Engine<br/>(Automated High-Speed VDR Transfer)"]
+        STUDIO["🎛️ studio Control System<br/>(TypeScript Studio State & Routing)"]
+        STREAM_CORE["🚀 NegahkadehStream<br/>(Python Broadcast Playout & Stream Core)"]
+    end
+
+    subgraph Distribution["📡 3. Multi-Platform Delivery & Live Engagement"]
+        direction LR
+        INSTA["📱 instalivecli<br/>(Local RTMP Ingest Bridge -> RTMPS)"]
+        CDN["🌐 Multi-CDN / HLS / WebRTC<br/>(Live Broadcast Playout)"]
+        RAFFLE["🎟️ raffle Live Graphics<br/>(Interactive Broadcast Draw UI)"]
+    end
+
+    subgraph Operations["📅 4. 24/7 MCR & Engineering Crew Operations"]
+        direction LR
+        SHIFT_AUTH["🔐 Shift-Scheduler-With-Login<br/>(FastAPI + Auth Roster Engine)"]
+        SHIFT_LIST["📋 Shift-list<br/>(Bootstrap 5 Crew Dashboard)"]
+    end
+
+    CAM -->|Baseband / IP Video| OBS
+    NDI_CAP -->|Ultra-Low-Latency NDI® over LAN| OBS
+    NDI_CAP -->|NDI® Stream| STUDIO
+    CAM -->|Recorded Clips / MXF / MP4| VDR
+    VDR -->|Automated FTP Ingest| STREAM_CORE
+    STUDIO -->|WebSocket / Control API| STREAM_CORE
+    OBS -->|RTMP Push| INSTA
+    OBS -->|RTMP / SRT Push| STREAM_CORE
+    STREAM_CORE -->|HLS / RTMP Playout| CDN
+    INSTA -->|RTMPS Stream Key Tunnel| CDN
+    RAFFLE -.->|Live Browser Source Overlay| OBS
+    SHIFT_AUTH --> SHIFT_LIST
+    SHIFT_LIST -.->|Assigns On-Duty Broadcast Engineers| STUDIO
+
+    sequenceDiagram
+    autonumber
+    participant Operator as 👷 Broadcast Engineer
+    participant NDI as 🖥️ Ndi-Screen-Capture
+    participant Studio as 🎛️ studio (TypeScript)
+    participant OBS as 🎬 OBS Studio / Encoder
+    participant InstaCLI as 📡 instalivecli (RTMP)
+    participant Core as 🚀 NegahkadehStream
+
+    Operator->>NDI: Start Web-Based NDI® Screen Capture
+    NDI-->>OBS: Broadcasts Low-Latency NDI® Video Feed over LAN
+    Operator->>Studio: Configure Studio Scene & Playout Schedule
+    Studio->>Core: Initialize Playout Pipeline & VDR Assets (via VDR_FTP)
+    Operator->>InstaCLI: Authenticate & Provision Live Session
+    InstaCLI-->>Operator: Returns Local RTMP Server URL & Stream Key
+    Operator->>OBS: Start Streaming to Local RTMP Bridge
+    OBS->>InstaCLI: Pushes H.264/AAC RTMP Stream
+    OBS->>Core: Pushes Primary Program Feed
+    Core-->>Operator: Telemetry, Bitrate & Playout Health OK
 
 ## 👨‍💻 Executive Summary & Engineering Profile
 
