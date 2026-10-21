@@ -338,7 +338,7 @@ Whether you are looking to **architect a live broadcast studio**, **automate IP 
 
 <p align="center">
   <a href="https://ehsan.cc.cc"><img src="https://img.shields.io/badge/🌐_Portfolio-ehsan.cc.cc-00E5FF?style=for-the-badge&logoColor=black" alt="Website" /></a>
-  <a href="https://linkedin.com/in/ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Ehsan-Ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/ehsaanpour"><img src="https://img.shields.io/badge/Telegram-Direct_Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
 
