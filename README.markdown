@@ -1,79 +1,76 @@
-# Ehsan Ehsanpour
-
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQG8GhiPJlo5Ow/company-background_10000/company-background_10000/0/1637940029294/eria_teknoloji_cover?e=2147483647&v=beta&t=g-G_rCEm8WkLGkFU0hUXKGEan-STpI-doUOgyf3904g" alt="Profile Banner" width="100%"/>
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=gradient&customColorList=1,11,20&height=200&section=header&text=Ehsan%20Pourhadi&fontSize=42&fontAlignY=38&desc=Data%20Engineer%20%7C%20Cloud%20Data%20Architect%20%7C%20Distributed%20Systems&descAlignY=62&descFontSize=18&theme=dark" width="100%"/>
 </div>
 
-## 👋 Welcome to My GitHub Profile!
-
-I'm a passionate developer specializing in Python, TypeScript, and broadcasting technologies. I love creating tools that bridge the gap between broadcasting and modern web technologies.
-
-## 🚀 Featured Projects
-
-### Broadcasting & Streaming Tools
-- [instalivecli](https://github.com/ehsaanpour/instalivecli) - CLI tool for Instagram Live streaming with RTMP integration
-- [Ndi-Screen-Capture](https://github.com/ehsaanpour/Ndi-Screen-Capture) - Web-based NDI screen capture solution
-- [VDR_FTP](https://github.com/ehsaanpour/VDR_FTP) - GUI application for VDR file transfers
-- [NegahkadehStream](https://github.com/ehsaanpour/NegahkadehStream) - Advanced streaming solution for broadcasting
-- [studio](https://github.com/ehsaanpour/studio) - TypeScript-based studio management system
-
-### Web Applications & Tools
-- [Shift-list](https://github.com/ehsaanpour/Shift-list) - FastAPI + Bootstrap 5 shift scheduling system
-- [Shift-Scheduler-With-Login](https://github.com/ehsaanpour/Shift-Scheduler-With-Login) - Enhanced shift management with authentication
-- [raffle](https://github.com/ehsaanpour/raffle) - Persian UI raffle system
-- [Me](https://github.com/ehsaanpour/Me) - Personal portfolio website
-- [ehsaanpour.github.io](https://github.com/ehsaanpour/ehsaanpour.github.io) - GitHub Pages website
-
-### Data Science & AI Projects
-- [Data-Science-Professional-Certificate](https://github.com/ehsaanpour/Data-Science-Professional-Certificate) - IBM Data Science certification projects
-- [Applied-Data-Science-Specialization](https://github.com/ehsaanpour/Applied-Data-Science-Specialization) - Coursera specialization projects
-
-### Learning & Documentation
-- [Python-Programming](https://github.com/ehsaanpour/Python-Programming) - Python programming examples and tutorials
-- [TypeScript-Learning](https://github.com/ehsaanpour/TypeScript-Learning) - TypeScript learning materials and examples
-
-## 🛠️ Tech Stack
-
 <div align="center">
-  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
 
+  <a href="https://github.com/ehsaanpour">
+    <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=20&duration=3000&pause=1000&color=38BDF8&center=true&vCenter=true&width=550&lines=Building+Scalable+Data+Platforms+%26+Pipelines;Specializing+in+GCP%2C+Apache+Spark+%26+BigQuery;Designing+Resilient+Lakehouses+%26+ETL%2FELT;Open+Source+%26+Cloud+Native+Advocate" alt="Typing SVG" />
+  </a>
+
+  <br/>
+
+  [![GitHub Followers](https://img.shields.io/github/followers/ehsaanpour?label=Followers&style=for-the-badge&logo=github&color=181717&logoColor=white)](https://github.com/ehsaanpour)
+  [![Profile Views](https://komarev.com/ghpvc/?username=ehsaanpour&label=Profile%20Views&color=0ea5e9&style=for-the-badge)](https://github.com/ehsaanpour)
+  [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/ehsaanpour)
 </div>
-
-## 📊 GitHub Stats
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsaanpour&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-## 🌟 Current Focus
-
-- Building broadcasting automation tools
-- Developing web applications with FastAPI
-- Contributing to open-source projects
-- Exploring TypeScript and modern web technologies
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/ehsaanpour/)
-- [Portfolio](https://ehsaanpour.github.io/Me/index.html)
-
-## 📫 How to Reach Me
-
-Feel free to:
-- Open an issue in any of my repositories
-- Fork my projects and submit pull requests
-- Connect with me on LinkedIn
-- Send me an email
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehsaanpour&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+### 👨‍💻 About Me
+
+- 🔭 **Focus**: Architecting high-throughput, low-latency distributed data pipelines and cloud-native lakehouses.
+- ☁️ **Cloud & Big Data**: Designing serverless & clustered processing architectures across **Google Cloud Platform (GCP)**, **PySpark**, **Dataproc**, and **BigQuery**.
+- 🛠️ **Engineering Practices**: Strong focus on data reliability, CI/CD for data pipelines, automated schema mapping, and performance tuning.
+- 🌱 **Continuous Learning**: Advanced distributed stream processing, modern query engines, and Lakehouse storage formats (Iceberg / Delta).
+
+---
+
+### 🛠️ Tech Stack & Tooling
+
+<table>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=python" width="48" height="48" alt="Python" />
+      <br><sub><b>Python</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/apache/apache-original.svg" width="48" height="48" alt="Apache Spark" />
+      <br><sub><b>Apache Spark</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=gcp" width="48" height="48" alt="GCP" />
+      <br><sub><b>Google Cloud</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/googlecloud/googlecloud-original.svg" width="48" height="48" alt="BigQuery" />
+      <br><sub><b>BigQuery</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=postgres" width="48" height="48" alt="PostgreSQL" />
+      <br><sub><b>PostgreSQL</b></sub>
+    </td>
+  </tr>
+  <tr>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=docker" width="48" height="48" alt="Docker" />
+      <br><sub><b>Docker</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git" />
+      <br><sub><b>Git</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux" />
+      <br><sub><b>Linux</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=bash" width="48" height="48" alt="Bash" />
+      <br><sub><b>Bash</b></sub>
+    </td>
+    <td align="center" width="96">
+      <img src="https://skillicons.dev/icons?i=githubactions" width="48" height="48" alt="CI/CD" />
+      <br><sub><b>GitHub Actions</b></sub>
+    </td>
+  </tr>
+</table>
