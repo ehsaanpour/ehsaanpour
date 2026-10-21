@@ -1,11 +1,7 @@
 <div align="center">
 
-<!-- 3D Animated Wave Header Banner -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=230&section=header&text=Ehsan%20Ehsanpour&fontSize=56&fontColor=00E5FF&animation=fadeIn&fontAlignY=35&desc=Broadcast%20%26%20Streaming%20Systems%20Engineer%20%7C%20Full-Stack%20Python%20%26%20TypeScript%20Developer&descAlignY=58&descSize=18&descColor=E0F7FA" width="100%" alt="Header Banner" />
-<!-- Animated Typing Header -->
-<a href="https://github.com/ehsaanpour">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Ehsan+Ehsanpour;Broadcast+%26+Streaming+Systems+Engineer;Python+%7C+TypeScript+%7C+FastAPI+%7C+NDI+%26+RTMP+Automation" alt="Typing SVG" />
-</a>
+
+
 
 <!-- Animated Typing Sub-Header -->
 <a href="https://github.com/ehsaanpour">
