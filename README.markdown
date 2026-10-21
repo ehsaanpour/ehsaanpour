@@ -1,79 +1,58 @@
-# Ehsan Ehsanpour
-
 <div align="center">
-  <img src="https://media.licdn.com/dms/image/v2/C4D1BAQG8GhiPJlo5Ow/company-background_10000/company-background_10000/0/1637940029294/eria_teknoloji_cover?e=2147483647&v=beta&t=g-G_rCEm8WkLGkFU0hUXKGEan-STpI-doUOgyf3904g" alt="Profile Banner" width="100%"/>
-</div>
 
-## 👋 Welcome to My GitHub Profile!
+<!-- Animated Typing Header -->
+<a href="https://github.com/ehsaanpour">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=700&size=28&duration=3000&pause=1000&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=850&height=100&lines=Ehsan+Ehsanpour;Broadcast+%26+Streaming+Systems+Engineer;Python+%7C+TypeScript+%7C+FastAPI+%7C+NDI+%26+RTMP+Automation" alt="Typing SVG" />
+</a>
 
-I'm a passionate developer specializing in Python, TypeScript, and broadcasting technologies. I love creating tools that bridge the gap between broadcasting and modern web technologies.
+<p align="center">
+  <a href="https://ehsan.cc.cc"><img src="https://img.shields.io/badge/🌐_Portfolio-ehsan.cc.cc-00E5FF?style=for-the-badge&logoColor=white" alt="Portfolio" /></a>
+  <a href="https://linkedin.com/in/ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-ehsaanpour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://t.me/ehsaanpour"><img src="https://img.shields.io/badge/Telegram-@ehsaanpour-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
+  <img src="https://komarev.com/ghpvc/?username=ehsaanpour&label=Profile%20Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
+</p>
 
-## 🚀 Featured Projects
-
-### Broadcasting & Streaming Tools
-- [instalivecli](https://github.com/ehsaanpour/instalivecli) - CLI tool for Instagram Live streaming with RTMP integration
-- [Ndi-Screen-Capture](https://github.com/ehsaanpour/Ndi-Screen-Capture) - Web-based NDI screen capture solution
-- [VDR_FTP](https://github.com/ehsaanpour/VDR_FTP) - GUI application for VDR file transfers
-- [NegahkadehStream](https://github.com/ehsaanpour/NegahkadehStream) - Advanced streaming solution for broadcasting
-- [studio](https://github.com/ehsaanpour/studio) - TypeScript-based studio management system
-
-### Web Applications & Tools
-- [Shift-list](https://github.com/ehsaanpour/Shift-list) - FastAPI + Bootstrap 5 shift scheduling system
-- [Shift-Scheduler-With-Login](https://github.com/ehsaanpour/Shift-Scheduler-With-Login) - Enhanced shift management with authentication
-- [raffle](https://github.com/ehsaanpour/raffle) - Persian UI raffle system
-- [Me](https://github.com/ehsaanpour/Me) - Personal portfolio website
-- [ehsaanpour.github.io](https://github.com/ehsaanpour/ehsaanpour.github.io) - GitHub Pages website
-
-### Data Science & AI Projects
-- [Data-Science-Professional-Certificate](https://github.com/ehsaanpour/Data-Science-Professional-Certificate) - IBM Data Science certification projects
-- [Applied-Data-Science-Specialization](https://github.com/ehsaanpour/Applied-Data-Science-Specialization) - Coursera specialization projects
-
-### Learning & Documentation
-- [Python-Programming](https://github.com/ehsaanpour/Python-Programming) - Python programming examples and tutorials
-- [TypeScript-Learning](https://github.com/ehsaanpour/TypeScript-Learning) - TypeScript learning materials and examples
-
-## 🛠️ Tech Stack
-
-<div align="center">
-  
-[![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=fff)](https://www.python.org/)
-[![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi&logoColor=white)](https://fastapi.tiangolo.com/)
-[![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript&logoColor=white)](https://www.typescriptlang.org/)
-[![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white)](https://developer.mozilla.org/en-US/docs/Glossary/HTML5)
-[![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white)](https://developer.mozilla.org/en-US/docs/Web/CSS)
-[![Bootstrap](https://img.shields.io/badge/Bootstrap-7952B3?style=for-the-badge&logo=bootstrap&logoColor=white)](https://getbootstrap.com/)
-[![Git](https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=git&logoColor=white)](https://git-scm.com/)
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%">
 
 </div>
 
-## 📊 GitHub Stats
+## 📡 About Me
 
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=ehsaanpour&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
+I am a **Broadcast & Software Engineer** specializing in bridging professional **broadcasting infrastructure** with modern **web architectures**. From low-latency **NDI screen capture** and **RTMP ingest pipelines** to **VDR media transfer automation** and full-scale **studio control systems**, I build high-reliability tools for live production workflows.
 
-## 🌟 Current Focus
-
-- Building broadcasting automation tools
-- Developing web applications with FastAPI
-- Contributing to open-source projects
-- Exploring TypeScript and modern web technologies
-
-## 🤝 Let's Connect
-
-- [LinkedIn](https://www.linkedin.com/in/ehsaanpour/)
-- [Portfolio](https://ehsaanpour.github.io/Me/index.html)
-
-## 📫 How to Reach Me
-
-Feel free to:
-- Open an issue in any of my repositories
-- Fork my projects and submit pull requests
-- Connect with me on LinkedIn
-- Send me an email
+- 🎥 **Broadcast Engineering:** NDI®, RTMP/RTMPS, HLS, WebRTC, VDR/FTP ingest, OBS Studio automation, and live stream orchestration.
+- ⚙️ **Backend & Systems:** Designing resilient APIs, real-time control planes, and scheduling systems with **Python (FastAPI)** and **TypeScript**.
+- 📊 **Data & Automation:** Applying data science and scripting to streamline studio operations, shift management, and media pipelines.
 
 ---
 
-<div align="center">
-  <img src="https://komarev.com/ghpvc/?username=ehsaanpour&style=flat-square&color=blue" alt="Profile Views"/>
-</div>
+## 🎛️ Broadcast & Live Production Architecture
+
+```mermaid
+flowchart LR
+    subgraph Sources["🎥 Studio & Capture Sources"]
+        A[NDI Screen Capture]
+        B[Camera / VDR Ingest]
+        C[OBS Studio / vMix]
+    end
+
+    subgraph Core["⚙️ Control & Automation Core"]
+        D[Studio Management System<br/>TypeScript]
+        E[NegahkadehStream Engine<br/>Python]
+        F[VDR_FTP Automated Transfer]
+    end
+
+    subgraph Distribution["📡 Live Distribution & Playout"]
+        G[InstaLiveCLI<br/>RTMP Bridge]
+        H[Multi-CDN / Live Playout]
+        I[Shift & Crew Scheduler<br/>FastAPI]
+    end
+
+    A -->|Low-Latency NDI| D
+    B -->|FTP / Media Sync| F
+    F --> E
+    C -->|RTMP Ingest| G
+    D --> E
+    E --> H
+    G -->|RTMPS Stream| H
+    I -.->|Operations Sync| D
