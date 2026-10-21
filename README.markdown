@@ -1,40 +1,32 @@
 <div align="center">
-
-
-
-
+<!-- Reliable Animated SVG Studio Header Banner -->
+<a href="https://github.com/ehsaanpour">
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=800&size=38&duration=4000&pause=1500&color=00E5FF&background=0D1117&center=true&vCenter=true&width=920&height=95&lines=%F0%9F%93%A1+EHSAN+EHSANPOUR;BROADCAST+%26+STREAMING+SYSTEMS+ENGINEER" alt="Ehsan Ehsanpour Header" />
+</a>
 <!-- Animated Typing Sub-Header -->
 <a href="https://github.com/ehsaanpour">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=21&duration=2800&pause=900&color=00E5FF&center=true&vCenter=true&multiline=true&repeat=true&width=900&height=85&lines=%F0%9F%93%A1+Architecting+Low-Latency+IP+Video+(NDI%C2%AE+%2F+RTMP+%2F+SRT+%2F+HLS)+Pipelines;%F0%9F%8E%9B%EF%B8%8F+Building+MCR+Playout+Engines%2C+VDR+Ingest+Automation+%26+Studio+Control+Systems;%E2%9A%99%EF%B8%8F+High-Concurrency+Backends+with+Python+(FastAPI)%2C+TypeScript+%26+Docker;%F0%9F%93%8A+IBM-Certified+in+Data+Science%2C+Analytics+%26+Automated+Media+Operations" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=19&duration=2800&pause=900&color=FF0055&center=true&vCenter=true&multiline=true&repeat=true&width=920&height=75&lines=Architecting+Low-Latency+IP+Video+(NDI%C2%AE+%2F+RTMP+%2F+SRT+%2F+HLS)+Pipelines;Building+MCR+Playout+Engines%2C+VDR+Ingest+Automation+%26+Studio+Control+Systems;High-Concurrency+Backends+with+Python+(FastAPI)%2C+TypeScript+%26+Docker;IBM-Certified+in+Data+Science%2C+Analytics+%26+Automated+Media+Operations" alt="Typing Subheader" />
 </a>
-
 <!-- Primary Navigation & Contact Badges -->
 <p align="center">
   <a href="https://ehsan.cc.cc"><img src="https://img.shields.io/badge/🌐_Website-ehsan.cc.cc-00E5FF?style=for-the-badge&logoColor=black" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/ehsaan-ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Ehsan_Ehsanpour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Ehsan_Ehsanpour-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/ehsaanpour"><img src="https://img.shields.io/badge/Telegram-@ehsaanpour-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
   <a href="https://ehsaanpour.github.io"><img src="https://img.shields.io/badge/GitHub_Pages-Portfolio-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub Pages" /></a>
   <img src="https://komarev.com/ghpvc/?username=ehsaanpour&label=Profile+Views&color=00E5FF&style=for-the-badge" alt="Profile Views" />
 </p>
-
 <!-- Domain & Status Badges -->
 <p align="center">
-  <img src="https://img.shields.io/badge/Domain-Broadcast_&_IP_Video_Engineering-FF0055?style=flat-square&logo=obsstudio&logoColor=white" alt="Domain" />
+  <img src="https://img.shields.io/badge/ON_AIR-Broadcast_&_IP_Video_Engineering-FF0055?style=flat-square&logo=obsstudio&logoColor=white" alt="Domain" />
   <img src="https://img.shields.io/badge/Location-Paris,_France-4B8BBE?style=flat-square&logo=googlemaps&logoColor=white" alt="Location" />
   <img src="https://img.shields.io/badge/Open_Source-28+_Repositories-00C853?style=flat-square&logo=github&logoColor=white" alt="Repos" />
   <img src="https://img.shields.io/badge/Certification-IBM_Data_Science-052FAD?style=flat-square&logo=ibm&logoColor=white" alt="IBM Certified" />
 </p>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
 </div>
-
-## 👨‍💻 Executive Summary & Broadcast Engineering Profile
-
-I am a **Broadcast & Streaming Systems Engineer** and **Full-Stack Software Developer** specializing in mission-critical software for **television broadcasting, live production studios, and Master Control Rooms (MCR)**. Traditional broadcast hardware and modern web architectures often operate in separate worlds—my work bridges that gap.
-
-Whether capturing ultra-low-latency **NDI® video feeds** through a web interface, automating high-speed **Video Disk Recorder (VDR)** media transfers over FTP for live playout, provisioning local **RTMP ingest bridges** for **OBS Studio**, or managing 24/7 broadcast crew schedules with **FastAPI**, I engineer high-reliability systems built for zero-downtime live operations.
-
+👨‍💻 Executive Summary & Broadcast Engineering Profile
+I am a Broadcast & Streaming Systems Engineer and Full-Stack Software Developer specializing in mission-critical software for television broadcasting, live production studios, and Master Control Rooms (MCR). Traditional broadcast hardware and modern web architectures often operate in separate worlds—my work bridges that gap.
+Whether capturing ultra-low-latency NDI® video feeds through a web interface, automating high-speed Video Disk Recorder (VDR) media transfers over FTP for live playout, provisioning local RTMP ingest bridges for OBS Studio, or managing 24/7 broadcast crew schedules with FastAPI, I engineer high-reliability systems built for zero-downtime live operations.
 <pre>
 ┌──────────────────────────────────────────────────────────────────────────────────────────┐
 │  📡 EHSAN EHSANPOUR — BROADCAST & STREAMING SYSTEMS ARCHITECTURE PROFILE                 │
@@ -50,14 +42,9 @@ Whether capturing ultra-low-latency **NDI® video feeds** through a web interfac
 │  Data & Analytics    │  IBM Data Science Certified, Pandas, NumPy, Scikit-Learn, SQL     │
 │  Infrastructure      │  Linux (Debian/Ubuntu), Windows Server/Embedded, Docker, Git      │
 └──────────────────────┴───────────────────────────────────────────────────────────────────┘
-</pre>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-## 🎛️ End-to-End Broadcast & Live Studio Architecture
-
-The visual pipeline below illustrates how my repositories interconnect inside a live **Broadcast Studio & Master Control Room (MCR)** environment:
-
+🎛️ End-to-End Broadcast & Live Studio Architecture
+The visual pipeline below illustrates how my repositories interconnect inside a live Broadcast Studio & Master Control Room (MCR) environment:
 <table>
   <thead>
     <tr>
@@ -139,7 +126,6 @@ The visual pipeline below illustrates how my repositories interconnect inside a 
     </tr>
   </tbody>
 </table>
-
 <details>
 <summary><b>🔍 Click to Expand: Live Broadcast Signal Flow & MCR Execution Sequence</b></summary>
 <br/>
@@ -157,11 +143,8 @@ The visual pipeline below illustrates how my repositories interconnect inside a 
    └──► 5. Triggers NegahkadehStream Engine ────────────► Executes Multi-Platform Live Playout & Health Telemetry
 </pre>
 </details>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-## 🚀 Featured Broadcasting & Streaming Engineering Suite
-
+🚀 Featured Broadcasting & Streaming Engineering Suite
 <table>
   <tr>
     <td width="50%" valign="top">
@@ -251,38 +234,25 @@ The visual pipeline below illustrates how my repositories interconnect inside a 
     </td>
   </tr>
 </table>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-## 🌐 Full-Stack Web Applications & Studio Operations
-
-Beyond video transport and signal routing, I architect full-stack web applications that power **24/7 engineering shift rosters, team scheduling, and web portfolios**:
-
-| Repository | Technology Stack | Architectural Scope & Production Features |
-| :--- | :--- | :--- |
-| 🔐 **[Shift-Scheduler-With-Login](https://github.com/ehsaanpour/Shift-Scheduler-With-Login)** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) | **Authenticated Crew Roster Platform:** Role-based access control (RBAC), secure user authentication, shift conflict validation, and schedule management tailored for 24/7 broadcast and technical operations teams. |
-| 📋 **[Shift-list](https://github.com/ehsaanpour/Shift-list)** | ![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) | **FastAPI Shift Management Engine:** High-speed shift planning web application featuring responsive Bootstrap 5 data tables, real-time roster updates, and clean REST API endpoints. |
-| 🌍 **[Me](https://github.com/ehsaanpour/Me)** | ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black) | **Personal Portfolio & Engineering Showcase:** Custom-built responsive portfolio website highlighting broadcast engineering projects, technical skills, and contact channels. |
-| 🚀 **[ehsaanpour.github.io](https://github.com/ehsaanpour/ehsaanpour.github.io)** | ![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) ![Web](https://img.shields.io/badge/Production_Site-00E5FF?style=flat-square) | **Hosted GitHub Pages Portal:** Production web deployment repository serving static assets and documentation via GitHub's global CDN. |
-
+🌐 Full-Stack Web Applications & Studio Operations
+Beyond video transport and signal routing, I architect full-stack web applications that power 24/7 engineering shift rosters, team scheduling, and web portfolios:
+Repository	Technology Stack	Architectural Scope & Production Features
+🔐 Shift-Scheduler-With-Login	![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Python](https://img.shields.io/badge/Python-3776AB?style=flat-square&logo=python&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white)	Authenticated Crew Roster Platform: Role-based access control (RBAC), secure user authentication, shift conflict validation, and schedule management tailored for 24/7 broadcast and technical operations teams.
+📋 Shift-list	![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white) ![Bootstrap](https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white) ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)	FastAPI Shift Management Engine: High-speed shift planning web application featuring responsive Bootstrap 5 data tables, real-time roster updates, and clean REST API endpoints.
+🌍 Me	![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JS-F7DF1E?style=flat-square&logo=javascript&logoColor=black)	Personal Portfolio & Engineering Showcase: Custom-built responsive portfolio website highlighting broadcast engineering projects, technical skills, and contact channels.
+🚀 ehsaanpour.github.io	![GitHub Pages](https://img.shields.io/badge/GitHub_Pages-222222?style=flat-square&logo=githubpages&logoColor=white) ![Web](https://img.shields.io/badge/Production_Site-00E5FF?style=flat-square)	Hosted GitHub Pages Portal: Production web deployment repository serving static assets and documentation via GitHub's global CDN.
 ---
-
-## 📊 Data Science, AI & Software Engineering Repositories
-
-| Repository | Specialization | Technical Highlights & Curriculum Coverage |
-| :--- | :--- | :--- |
-| 📈 **[Data-Science-Professional-Certificate](https://github.com/ehsaanpour/Data-Science-Professional-Certificate)** | ![IBM](https://img.shields.io/badge/IBM_Certified-052FAD?style=flat-square&logo=ibm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white) | **IBM Data Science Capstone Suite:** End-to-end notebooks covering Python data analysis, SQL queries, Exploratory Data Analysis (EDA), Folium geospatial mapping, Plotly Dash interactive dashboards, and Scikit-Learn machine learning pipelines. |
-| 🔬 **[Applied-Data-Science-Specialization](https://github.com/ehsaanpour/Applied-Data-Science-Specialization)** | ![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white) | **Applied Data Science Projects:** Automated web scraping (BeautifulSoup), REST API geospatial clustering (K-Means), and statistical data visualization using Matplotlib and Seaborn. |
-| 🐍 **[Python-Programming](https://github.com/ehsaanpour/Python-Programming)** | ![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white) | **Python Architecture & Automation:** Reference implementations of object-oriented design, network/file I/O automation, data structures, and scripting patterns. |
-| 📘 **[TypeScript-Learning](https://github.com/ehsaanpour/TypeScript-Learning)** | ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white) | **Enterprise TypeScript Patterns:** Advanced static typing, generics, interfaces, asynchronous concurrency patterns, and modular architecture for scalable applications. |
-
+📊 Data Science, AI & Software Engineering Repositories
+Repository	Specialization	Technical Highlights & Curriculum Coverage
+📈 Data-Science-Professional-Certificate	![IBM](https://img.shields.io/badge/IBM_Certified-052FAD?style=flat-square&logo=ibm&logoColor=white) ![Jupyter](https://img.shields.io/badge/Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white)	IBM Data Science Capstone Suite: End-to-end notebooks covering Python data analysis, SQL queries, Exploratory Data Analysis (EDA), Folium geospatial mapping, Plotly Dash interactive dashboards, and Scikit-Learn machine learning pipelines.
+🔬 Applied-Data-Science-Specialization	![Coursera](https://img.shields.io/badge/Coursera-0056D2?style=flat-square&logo=coursera&logoColor=white) ![Pandas](https://img.shields.io/badge/Pandas-150458?style=flat-square&logo=pandas&logoColor=white)	Applied Data Science Projects: Automated web scraping (BeautifulSoup), REST API geospatial clustering (K-Means), and statistical data visualization using Matplotlib and Seaborn.
+🐍 Python-Programming	![Python](https://img.shields.io/badge/Python_3-3776AB?style=flat-square&logo=python&logoColor=white)	Python Architecture & Automation: Reference implementations of object-oriented design, network/file I/O automation, data structures, and scripting patterns.
+📘 TypeScript-Learning	![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)	Enterprise TypeScript Patterns: Advanced static typing, generics, interfaces, asynchronous concurrency patterns, and modular architecture for scalable applications.
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-## 🛠️ Complete Technology & Broadcast Stack
-
+🛠️ Complete Technology & Broadcast Stack
 <div align="center">
-
-### 📡 1. Broadcast Engineering, IP Video & Streaming Protocols
+📡 1. Broadcast Engineering, IP Video & Streaming Protocols
 <p>
   <img src="https://img.shields.io/badge/NDI%C2%AE_(Network_Device_Interface)-00E5FF?style=for-the-badge&logoColor=black" alt="NDI" />
   <img src="https://img.shields.io/badge/RTMP_/_RTMPS_Ingest-FF0055?style=for-the-badge" alt="RTMP" />
@@ -296,8 +266,7 @@ Beyond video transport and signal routing, I architect full-stack web applicatio
   <img src="https://img.shields.io/badge/VDR_&_FTP_Playout_Sync-00C853?style=for-the-badge" alt="VDR FTP" />
   <img src="https://img.shields.io/badge/MCR_&_Live_Studio_Systems-0A66C2?style=for-the-badge" alt="MCR" />
 </p>
-
-### 💻 2. Core Programming Languages, Backend & Web Frameworks
+💻 2. Core Programming Languages, Backend & Web Frameworks
 <p>
   <img src="https://skillicons.dev/icons?i=py,ts,js,fastapi,html,css,bootstrap,nodejs&perline=8" alt="Languages and Frameworks" />
 </p>
@@ -311,8 +280,7 @@ Beyond video transport and signal routing, I architect full-stack web applicatio
   <img src="https://img.shields.io/badge/Bootstrap_5-7952B3?style=flat-square&logo=bootstrap&logoColor=white" />
   <img src="https://img.shields.io/badge/REST_APIs_&_WebSockets-00E5FF?style=flat-square" />
 </p>
-
-### 🐳 3. Systems Administration, DevOps & Data Science
+🐳 3. Systems Administration, DevOps & Data Science
 <p>
   <img src="https://skillicons.dev/icons?i=linux,debian,ubuntu,docker,git,github,vscode,bash&perline=8" alt="DevOps and Systems" />
 </p>
@@ -324,53 +292,41 @@ Beyond video transport and signal routing, I architect full-stack web applicatio
   <img src="https://img.shields.io/badge/Matplotlib_&_Plotly-11557C?style=flat-square" />
   <img src="https://img.shields.io/badge/SQL_&_Relational_DBs-4479A1?style=flat-square&logo=postgresql&logoColor=white" />
 </p>
-
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-## 🏆 GitHub Trophies, Telemetry & Activity Dashboard
-
+📊 GitHub Telemetry, Contribution Graph & Activity Dashboard
 <div align="center">
-
-<!-- GitHub Trophies -->
+<!-- Full-Width Profile Summary & Contribution Activity Graph (100% Reliable Endpoint) -->
 <p align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=ehsaanpour&theme=tokyonight&no-frame=true&no-bg=true&margin-w=10&row=1&column=6" width="95%" alt="GitHub Trophies" />
+  <img src="https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=ehsaanpour&theme=tokyonight" width="98%" alt="Ehsan's Contribution Graph & Profile Details" />
 </p>
-
-<!-- GitHub Stats & Top Languages Side-by-Side -->
+<!-- GitHub Stats (Fixed Rate-Limit Parameters) & Top Languages Side-by-Side -->
 <p align="center">
-  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ehsaanpour&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF0055" alt="Ehsan's GitHub Stats" />
+  <img height="175em" src="https://github-readme-stats.vercel.app/api?username=ehsaanpour&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF&icon_color=FF0055" alt="Ehsan's GitHub Stats" />
   <img height="175em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=ehsaanpour&layout=compact&langs_count=8&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00E5FF" alt="Top Languages" />
 </p>
-
+<!-- Repos Per Language & Productive Time Telemetry -->
+<p align="center">
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=ehsaanpour&theme=tokyonight" alt="Repos Per Language" />
+  <img height="175em" src="https://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=ehsaanpour&theme=tokyonight" alt="Most Commit Language" />
+</p>
 <!-- GitHub Streak Stats -->
 <p align="center">
   <img src="https://streak-stats.demolab.com?user=ehsaanpour&theme=tokyonight&hide_border=true&background=0D1117&ring=00E5FF&fire=FF0055&currStreakLabel=00E5FF" alt="GitHub Streak" />
 </p>
-
-<!-- Full-Width Contribution Activity Graph -->
+<!-- Full-Year Contribution Calendar Matrix -->
 <p align="center">
-  <img src="https://github-readme-activity-graph.vercel.app/graph?username=ehsaanpour&bg_color=0d1117&color=00e5ff&line=ff0055&point=ffffff&area=true&hide_border=true" width="98%" alt="Contribution Graph" />
+  <img src="https://ghchart.rshah.org/00E5FF/ehsaanpour" width="95%" alt="GitHub Contribution Calendar" />
 </p>
-
 </div>
-
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Divider" />
-
-## 🤝 Let's Connect & Build Together
-
+🤝 Let's Connect & Build Together
 <div align="center">
-
-Whether you are looking to **architect a live broadcast studio**, **automate IP video workflows (NDI® / RTMP / SRT / VDR)**, or **develop high-concurrency Python (FastAPI) & TypeScript applications**, feel free to reach out:
-
+Whether you are looking to architect a live broadcast studio, automate IP video workflows (NDI® / RTMP / SRT / VDR), or develop high-concurrency Python (FastAPI) & TypeScript applications, feel free to reach out:
 <p align="center">
   <a href="https://ehsan.cc.cc"><img src="https://img.shields.io/badge/🌐_Portfolio-ehsan.cc.cc-00E5FF?style=for-the-badge&logoColor=black" alt="Website" /></a>
-  <a href="https://linkedin.com/in/ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
+  <a href="https://linkedin.com/in/Ehsaan-ehsaanpour"><img src="https://img.shields.io/badge/LinkedIn-Connect_With_Me-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://t.me/ehsaanpour"><img src="https://img.shields.io/badge/Telegram-Direct_Message-26A5E4?style=for-the-badge&logo=telegram&logoColor=white" alt="Telegram" /></a>
 </p>
-
-<!-- Animated Wave Footer -->
-<img src="https://capsule-render.vercel.app/api?type=waving&color=0:0f2027,50:203a43,100:2c5364&height=120&section=footer" width="100%" alt="Footer Banner" />
-
+<img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif" width="100%" alt="Footer Divider" />
 </div>
